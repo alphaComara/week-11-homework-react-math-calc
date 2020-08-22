@@ -1,0 +1,13 @@
+div.App {
+  text-align: center;
+}
+
+Calculator{
+  background-color: #2211d4;
+  color: white
+}
+
+input {
+width: auto;
+margin: 5xp; 
+}
